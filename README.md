@@ -1,7 +1,7 @@
 # E-eye
 E-eye : Smart and Affordable Electronic Glasses for Blind or Visually Impaired People
 
-Building AI course project
+Final project for the Building AI course
 
 
 <!-- This is the markdown template for the final project of the Building AI course, -->
